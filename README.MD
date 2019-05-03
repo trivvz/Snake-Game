@@ -22,6 +22,9 @@
 
 - added option to switch drawing of grid lines using L key
 
+- lives are now displayed using heart image
+
+- louder game sounds turned down a bit
 
 - new level treshold function changed to cubic one in order to make the transition less frequent
 
